@@ -56,4 +56,5 @@ docs/_build
 skbuild/_cmake_test_compile/*
 
 .coverage*
-skbuild/_version.py
+
+.pybuild/

@@ -2,9 +2,6 @@
 
 import setuptools
 
-# Produce an ImportError if this is missing
-import setuptools_scm  # noqa: F401
-
 with open("README.rst") as fp:
     readme = fp.read()
 
@@ -22,6 +19,7 @@ with open("requirements-docs.txt") as fp:
 
 setuptools.setup(
     name="scikit-build",
+    version="0.16.2",
     description="Improved build system generator for Python C/C++/Fortran/Cython extensions",
     long_description_content_type="text/x-rst; charset=UTF-8",
     long_description=readme + "\n\n" + history,
