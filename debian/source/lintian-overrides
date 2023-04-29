@@ -1,0 +1,5 @@
+python-scikit-build source: file-without-copyright-information
+python-scikit-build source: no-debian-changes
+python-scikit-build source: source-contains-prebuilt-windows-binary
+python-scikit-build source: source-is-missing
+python-scikit-build source: source-package-encodes-python-version
