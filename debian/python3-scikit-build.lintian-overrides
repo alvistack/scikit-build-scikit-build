@@ -1,0 +1,4 @@
+python3-scikit-build: copyright-without-copyright-notice
+python3-scikit-build: initial-upload-closes-no-bugs
+python3-scikit-build: no-manual-page
+python3-scikit-build: zero-byte-file-in-doc-directory
